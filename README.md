@@ -27,7 +27,7 @@ Passionate about creating efficient solutions, learning new technologies, and co
 
 ## 🔧 My Tech Stack
 
-<!-- Programming Languages -->
+## Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -37,7 +37,7 @@ Passionate about creating efficient solutions, learning new technologies, and co
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
-<!-- Frameworks & Libraries -->
+## Frameworks & Libraries
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
@@ -48,13 +48,13 @@ Passionate about creating efficient solutions, learning new technologies, and co
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-000000?logo=playwright&logoColor=white)
 
-<!-- Databases -->
+## Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Sequelize](https://img.shields.io/badge/Sequelize-3E7C9A?logo=sequelize&logoColor=white)
 
-<!-- Tools & Platforms -->
+## Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
