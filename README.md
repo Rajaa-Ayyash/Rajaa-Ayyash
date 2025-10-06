@@ -7,7 +7,7 @@
 - Backend Trainee at Oppotrain-Training
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rajaa-Ayyash&style=for-the-badge&color=ffb6c1" alt="Profile Views"/>
 </p>
 
 ## > 🌸 About Me
