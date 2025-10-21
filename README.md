@@ -1,6 +1,6 @@
 # Hey there, I'm Rajaa Ayyash🌷
 
-**Software Engineering Student· Backend Trainee · Coffee Lover ☕**
+**Software Engineering Student· Backend Trainee **
 
 💼 **Current:** 
 - Software Engineering Student at [An-Najah National University](https://www.najah.edu)
