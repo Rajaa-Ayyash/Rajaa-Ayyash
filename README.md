@@ -12,7 +12,7 @@
 
 ## > 🌸 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+
 I’m a Software Engineering student and Backend Trainee 
 .
 I build web and mobile applications with clean UI/UX and solid backend logic.
@@ -61,11 +61,6 @@ Passionate about creating efficient solutions, learning new technologies, and co
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaa-Ayyash&layout=compact&theme=rose_pine" alt="Top Languages"/>
-</div>
 
 
 ## 🔗 Connect with Me
