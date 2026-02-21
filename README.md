@@ -12,7 +12,7 @@
 
 ## > 🌸 About Me
 
-
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 I’m a Software Engineering student and Backend Trainee 
 .
 I build web and mobile applications with clean UI/UX and solid backend logic.
