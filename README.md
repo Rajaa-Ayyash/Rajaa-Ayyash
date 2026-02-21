@@ -4,7 +4,7 @@
 
 💼 **Current:** 
 - Software Engineering Student at [An-Najah National University](https://www.najah.edu)
-- Backend Trainee at Oppotrain-Training
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajaa-Ayyash&style=for-the-badge&color=ffb6c1" alt="Profile Views"/>
@@ -12,7 +12,6 @@
 
 ## > 🌸 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
 I’m a Software Engineering student and Backend Trainee 
 .
