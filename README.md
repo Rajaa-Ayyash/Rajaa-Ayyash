@@ -1,4 +1,4 @@
-# Hey there, I'm Rajaa Ayyash 👋
+# Hey there, I'm Rajaa Ayyash 
 
 ### Software Engineering Student · Software Developer
 
